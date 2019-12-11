@@ -3,7 +3,11 @@
 
 #include "../View/searchView.h"
 #include "../Model/dataStorage.h"
+#include "../Model/autoCompleteData.h"
 
+#include <vector>
+
+std::vector<std::string> GetBestKCompletions(const string& prefix);
 class Control
 {
 public:
@@ -11,8 +15,10 @@ public:
 
 private:
     SearchView *m_view;
-    HashedData hashedData;
+
 };
+
+
 
 
 #endif //AUTOCOPLETE_SEARCH_CONTROL_H

@@ -1,4 +1,4 @@
-# Install script for directory: /home/elana/projects/googleProject/AutoCopmleteSearch
+# Install script for directory: /home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

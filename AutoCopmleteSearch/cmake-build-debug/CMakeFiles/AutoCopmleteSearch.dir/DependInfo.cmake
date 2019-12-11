@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/elana/projects/googleProject/AutoCopmleteSearch/Controller/control.cpp" "/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/CMakeFiles/AutoCopmleteSearch.dir/Controller/control.cpp.o"
-  "/home/elana/projects/googleProject/AutoCopmleteSearch/Model/dataStorage.cpp" "/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/CMakeFiles/AutoCopmleteSearch.dir/Model/dataStorage.cpp.o"
-  "/home/elana/projects/googleProject/AutoCopmleteSearch/main.cpp" "/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/CMakeFiles/AutoCopmleteSearch.dir/main.cpp.o"
+  "/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/Controller/control.cpp" "/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/CMakeFiles/AutoCopmleteSearch.dir/Controller/control.cpp.o"
+  "/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/Model/dataStorage.cpp" "/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/CMakeFiles/AutoCopmleteSearch.dir/Model/dataStorage.cpp.o"
+  "/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/main.cpp" "/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/CMakeFiles/AutoCopmleteSearch.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

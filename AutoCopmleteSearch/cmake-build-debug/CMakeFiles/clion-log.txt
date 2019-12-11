@@ -1,4 +1,4 @@
-/opt/clion-2019.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/elana/projects/googleProject/AutoCopmleteSearch
+/opt/clion-2019.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug
+-- Build files have been written to: /home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug

@@ -2,17 +2,25 @@
 #define AUTOCOPLETE_SEARCH_DATASTORAGE_H
 
 #include <iostream>
-#include <map>
+#include <unordered_map>
 #include <vector>
 
-typedef std::map<const std::string, std::vector<std::string> > Data;
+#include <fstream>
+#include "json.hpp"
+using nlohmann::json;
 
-class HashedData
+typedef std::unordered_map<std::string, std::vector<std::pair<std::string, int>> > MapHashedData;
+typedef std::unordered_map<std::string, std::vector<std::string>> QueryData;
+
+class Data
 {
 public:
-    static Data initData();
-private:
-    static Data s_data;
+    static MapHashedData initHashedData();
+    static QueryData initQueryData();
+
+
+    static MapHashedData s_hashedData;
+    static QueryData s_queryData;
 };
 
 #endif //AUTOCOPLETE_SEARCH_DATASTORAGE_H

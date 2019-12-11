@@ -2,7 +2,7 @@
 
 int main()
 {
-    Control control;
+    Control control{};
 
     control.run();
 

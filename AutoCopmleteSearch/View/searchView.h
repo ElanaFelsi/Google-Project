@@ -2,20 +2,31 @@
 #define AUTOCOPLETE_SEARCH_SEARCHVIEW_H
 
 #include <iostream>
+#include <vector>
 
 class SearchView
 {
 public:
-    void getInput();
+    std::string getInput();
+
+    void print(std::vector<std::string> &vector);
 };
 
-inline void SearchView::getInput()
+inline std::string SearchView::getInput()
 {
     std::cout << "Search: ";
     std::string query;
     std::getline(std::cin, query);
 
-    
+    return query;
+}
+
+inline void SearchView::print(std::vector<std::string> &res)
+{
+    for(auto & q: res)
+    {
+        std::cout << q;
+    }
 }
 
 #endif //AUTOCOPLETE_SEARCH_SEARCHVIEW_H

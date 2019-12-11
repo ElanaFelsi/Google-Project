@@ -43,10 +43,10 @@ RM = /opt/clion-2019.2/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/elana/projects/googleProject/AutoCopmleteSearch
+CMAKE_SOURCE_DIR = /home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug
+CMAKE_BINARY_DIR = /home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/AutoCopmleteSearch.dir/depend.make
@@ -59,42 +59,42 @@ include CMakeFiles/AutoCopmleteSearch.dir/flags.make
 
 CMakeFiles/AutoCopmleteSearch.dir/main.cpp.o: CMakeFiles/AutoCopmleteSearch.dir/flags.make
 CMakeFiles/AutoCopmleteSearch.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AutoCopmleteSearch.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AutoCopmleteSearch.dir/main.cpp.o -c /home/elana/projects/googleProject/AutoCopmleteSearch/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AutoCopmleteSearch.dir/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AutoCopmleteSearch.dir/main.cpp.o -c /home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/main.cpp
 
 CMakeFiles/AutoCopmleteSearch.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AutoCopmleteSearch.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/elana/projects/googleProject/AutoCopmleteSearch/main.cpp > CMakeFiles/AutoCopmleteSearch.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/main.cpp > CMakeFiles/AutoCopmleteSearch.dir/main.cpp.i
 
 CMakeFiles/AutoCopmleteSearch.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AutoCopmleteSearch.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/elana/projects/googleProject/AutoCopmleteSearch/main.cpp -o CMakeFiles/AutoCopmleteSearch.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/main.cpp -o CMakeFiles/AutoCopmleteSearch.dir/main.cpp.s
 
 CMakeFiles/AutoCopmleteSearch.dir/Model/dataStorage.cpp.o: CMakeFiles/AutoCopmleteSearch.dir/flags.make
 CMakeFiles/AutoCopmleteSearch.dir/Model/dataStorage.cpp.o: ../Model/dataStorage.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/AutoCopmleteSearch.dir/Model/dataStorage.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AutoCopmleteSearch.dir/Model/dataStorage.cpp.o -c /home/elana/projects/googleProject/AutoCopmleteSearch/Model/dataStorage.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/AutoCopmleteSearch.dir/Model/dataStorage.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AutoCopmleteSearch.dir/Model/dataStorage.cpp.o -c /home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/Model/dataStorage.cpp
 
 CMakeFiles/AutoCopmleteSearch.dir/Model/dataStorage.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AutoCopmleteSearch.dir/Model/dataStorage.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/elana/projects/googleProject/AutoCopmleteSearch/Model/dataStorage.cpp > CMakeFiles/AutoCopmleteSearch.dir/Model/dataStorage.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/Model/dataStorage.cpp > CMakeFiles/AutoCopmleteSearch.dir/Model/dataStorage.cpp.i
 
 CMakeFiles/AutoCopmleteSearch.dir/Model/dataStorage.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AutoCopmleteSearch.dir/Model/dataStorage.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/elana/projects/googleProject/AutoCopmleteSearch/Model/dataStorage.cpp -o CMakeFiles/AutoCopmleteSearch.dir/Model/dataStorage.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/Model/dataStorage.cpp -o CMakeFiles/AutoCopmleteSearch.dir/Model/dataStorage.cpp.s
 
 CMakeFiles/AutoCopmleteSearch.dir/Controller/control.cpp.o: CMakeFiles/AutoCopmleteSearch.dir/flags.make
 CMakeFiles/AutoCopmleteSearch.dir/Controller/control.cpp.o: ../Controller/control.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/AutoCopmleteSearch.dir/Controller/control.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AutoCopmleteSearch.dir/Controller/control.cpp.o -c /home/elana/projects/googleProject/AutoCopmleteSearch/Controller/control.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/AutoCopmleteSearch.dir/Controller/control.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AutoCopmleteSearch.dir/Controller/control.cpp.o -c /home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/Controller/control.cpp
 
 CMakeFiles/AutoCopmleteSearch.dir/Controller/control.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AutoCopmleteSearch.dir/Controller/control.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/elana/projects/googleProject/AutoCopmleteSearch/Controller/control.cpp > CMakeFiles/AutoCopmleteSearch.dir/Controller/control.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/Controller/control.cpp > CMakeFiles/AutoCopmleteSearch.dir/Controller/control.cpp.i
 
 CMakeFiles/AutoCopmleteSearch.dir/Controller/control.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AutoCopmleteSearch.dir/Controller/control.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/elana/projects/googleProject/AutoCopmleteSearch/Controller/control.cpp -o CMakeFiles/AutoCopmleteSearch.dir/Controller/control.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/Controller/control.cpp -o CMakeFiles/AutoCopmleteSearch.dir/Controller/control.cpp.s
 
 # Object files for target AutoCopmleteSearch
 AutoCopmleteSearch_OBJECTS = \
@@ -110,7 +110,7 @@ AutoCopmleteSearch: CMakeFiles/AutoCopmleteSearch.dir/Model/dataStorage.cpp.o
 AutoCopmleteSearch: CMakeFiles/AutoCopmleteSearch.dir/Controller/control.cpp.o
 AutoCopmleteSearch: CMakeFiles/AutoCopmleteSearch.dir/build.make
 AutoCopmleteSearch: CMakeFiles/AutoCopmleteSearch.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable AutoCopmleteSearch"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable AutoCopmleteSearch"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/AutoCopmleteSearch.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -123,6 +123,6 @@ CMakeFiles/AutoCopmleteSearch.dir/clean:
 .PHONY : CMakeFiles/AutoCopmleteSearch.dir/clean
 
 CMakeFiles/AutoCopmleteSearch.dir/depend:
-	cd /home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/elana/projects/googleProject/AutoCopmleteSearch /home/elana/projects/googleProject/AutoCopmleteSearch /home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug /home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug /home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/CMakeFiles/AutoCopmleteSearch.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch /home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch /home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug /home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug /home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/CMakeFiles/AutoCopmleteSearch.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/AutoCopmleteSearch.dir/depend
 

@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug"/>
+				<Option working_dir="/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug"/>
+				<Option working_dir="/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="AutoCopmleteSearch">
-				<Option output="/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/AutoCopmleteSearch" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug"/>
+				<Option output="/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/AutoCopmleteSearch" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -44,15 +44,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 AutoCopmleteSearch"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 AutoCopmleteSearch"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="AutoCopmleteSearch/fast">
-				<Option output="/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/AutoCopmleteSearch" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug"/>
+				<Option output="/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/AutoCopmleteSearch" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -67,48 +67,48 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 AutoCopmleteSearch/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 AutoCopmleteSearch/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug"/>
+				<Option working_dir="/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/elana/projects/googleProject/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/elana/projects/googleProject/AutoCopmleteSearch/Controller/control.cpp">
+		<Unit filename="/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/Controller/control.cpp">
 			<Option target="AutoCopmleteSearch"/>
 		</Unit>
-		<Unit filename="/home/elana/projects/googleProject/AutoCopmleteSearch/Controller/control.h">
+		<Unit filename="/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/Controller/control.h">
 			<Option target="AutoCopmleteSearch"/>
 		</Unit>
-		<Unit filename="/home/elana/projects/googleProject/AutoCopmleteSearch/Model/dataStorage.cpp">
+		<Unit filename="/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/Model/autoCompleteData.h">
 			<Option target="AutoCopmleteSearch"/>
 		</Unit>
-		<Unit filename="/home/elana/projects/googleProject/AutoCopmleteSearch/Model/dataStorage.h">
+		<Unit filename="/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/Model/dataStorage.cpp">
 			<Option target="AutoCopmleteSearch"/>
 		</Unit>
-		<Unit filename="/home/elana/projects/googleProject/AutoCopmleteSearch/Model/offline.h">
+		<Unit filename="/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/Model/dataStorage.h">
 			<Option target="AutoCopmleteSearch"/>
 		</Unit>
-		<Unit filename="/home/elana/projects/googleProject/AutoCopmleteSearch/Model/online.h">
+		<Unit filename="/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/Model/online.h">
 			<Option target="AutoCopmleteSearch"/>
 		</Unit>
-		<Unit filename="/home/elana/projects/googleProject/AutoCopmleteSearch/View/searchView.h">
+		<Unit filename="/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/View/searchView.h">
 			<Option target="AutoCopmleteSearch"/>
 		</Unit>
-		<Unit filename="/home/elana/projects/googleProject/AutoCopmleteSearch/main.cpp">
+		<Unit filename="/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/main.cpp">
 			<Option target="AutoCopmleteSearch"/>
 		</Unit>
-		<Unit filename="/home/elana/projects/googleProject/AutoCopmleteSearch/CMakeLists.txt">
+		<Unit filename="/home/elana/projects/google-project-ElanaFelsi/AutoCopmleteSearch/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
