@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/AutoCopmleteSearch.dir/main.cpp.o CMakeFiles/AutoCopmleteSearch.dir/Model/dataStorage.cpp.o CMakeFiles/AutoCopmleteSearch.dir/Controller/control.cpp.o  -o AutoCopmleteSearch 
